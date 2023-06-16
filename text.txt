@@ -4,8 +4,3 @@ Hello World
 
 Hello there (newbranch)
 new linegit
-
-##Adding new changes for new branch 2
-
-
-new line for second branch
